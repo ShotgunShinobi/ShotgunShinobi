@@ -55,9 +55,14 @@ fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 ### 📊 GitHub Stats
 
 <div align="center">
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShotgunShinobi&theme=tokyonight)
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=ShotgunShinobi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShotgunShinobi&layout=compact&theme=tokyonight)
+
+  <!-- Streak stats (separate service, usually stable) -->
+![Streak](https://streak-stats.demolab.com/?user=ShotgunShinobi&theme=tokyonight)
+  
+<!-- Profile summary cards -->
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShotgunShinobi&theme=tokyonight)
 
 </div>
 
