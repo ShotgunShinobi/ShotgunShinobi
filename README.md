@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**ShotgunShinobi/ShotgunShinobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer → AI/ML Engineer** | Bengaluru, India 🇮🇳
 
-Here are some ideas to get you started:
+Building AI agents, LLM-powered apps, and full-stack SaaS products.
+Ex-TCS automation engineer, now deep into agentic systems, video AI, and ML optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm working on
+- 🤖 AI agents & agentic workflows (tool use, RAG, multi-agent systems)
+- 🎥 Video processing & generation with AI (tracking, SORT, Kalman filters)
+- ⚡ LLM optimization — quantization, KV cache, GQA
+- 🌐 Full-stack apps with Next.js, React, Python, FastAPI
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+## 📫 Connect
+- 💼 [LinkedIn](your-link)
+- 📝 [Portfolio / Blog](your-link)
+- 📈 Fun fact: intraday trader & rally motorsport enthusiast
