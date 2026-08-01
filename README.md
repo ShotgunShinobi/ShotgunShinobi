@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Marian 👋
 
 **Software Engineer → AI/ML Engineer** | Bengaluru, India 🇮🇳
 
@@ -19,9 +19,9 @@ Ex-TCS automation engineer, now deep into agentic systems, video AI, and ML opti
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ShotgunShinobi&show_icons=true&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShotgunShinobi&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotgunShinobi&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=ShotgunShinobi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShotgunShinobi&layout=compact&theme=tokyonight)
 
 ## 📫 Connect
 - 💼 [LinkedIn](your-link)
