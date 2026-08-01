@@ -59,10 +59,10 @@ fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShotgunShinobi&theme=tokyonight)
 
   <!-- Streak stats (separate service, usually stable) -->
-![Streak](https://streak-stats.demolab.com/?user=ShotgunShinobi&theme=tokyonight)
+<!--![Streak](https://streak-stats.demolab.com/?user=ShotgunShinobi&theme=tokyonight) -->
   
 <!-- Profile summary cards -->
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShotgunShinobi&theme=tokyonight)
+<!-- ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShotgunShinobi&theme=tokyonight) -->
 
 </div>
 
